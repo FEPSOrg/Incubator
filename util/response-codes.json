@@ -1,0 +1,6 @@
+{
+  "success" : 200,
+  "created" : 201,
+  "not_found" : 401,
+  "server_error" : 500
+}

@@ -1,0 +1,49 @@
+{
+  "app_url" : "http://localhost:3000/fepsIncubator/resetPassword",
+  "mail" : {
+    "contact" : "contact",
+    "forget_password" : "forget_password"
+  },
+  "mailTemplates" : {
+    "contact" : "contact",
+    "forget_password" : "forget_password"
+  },
+  "language" : {
+    "ar" : "ar",
+    "en" : "en"
+  },
+  "documents" : {
+    "type" : {
+      "users" : "users",
+      "views" : "views",
+      "projects" : "projects",
+      "news" : "news",
+      "groups" : "groups",
+      "sectors" : "sectors",
+      "cycles":"cycles",
+      "attachments" : "attachments"
+    }
+  },
+  "groups" : {
+    "super_admin" : "Super Amin",
+    "it_admin" : "IT Admin",
+    "supervisor_event" : "Supervisor Event",
+    "supervisor_project" : "Supervisor Project",
+    "supervisor_clinic" : "Supervisor clinic",
+    "founder" : "Founder",
+    "registered_user" : "Registered user",
+    "mentor" : "Mentor"
+  },
+  "cycles":{
+    "admission" : "Admission",
+    "revision" : "Revision",
+    "incubation" : "Incubation",
+    "closure" : "Closure"
+  },
+  "projects" : {
+    "roles" : {
+      "member" : "Member",
+      "founder" : "Founder"
+    }
+  }
+}

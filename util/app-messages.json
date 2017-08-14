@@ -1,0 +1,122 @@
+{
+	"businessMessages":{
+		"user_register_success":{"en":"user has been registered successfully","ar":"تمت أضافة  المستخدم بنجاح"},
+		"user_register_fail_already_exists":{"en":"this user name already Exists","ar":"اسم المستخدم موجود مسبقا"},
+		"support_mail_subject" : {"en" : "We are glad to help you", "ar" : "نحن سعداء لمساعدتك"},
+		"user_removed" : {"en" : "User is removed successfully", "ar" : "تم حذف المستخدم بنجاح"},
+		"user_update_success" : {
+			"en" : "User updated successfully",
+			"ar" : "تم تحديث البيانات بنجاح"
+		},
+		"news_updated_success" : {
+			"en" : "News updated successfully",
+			"ar" : "تم تحديث الخبر بنجاح"
+		},
+		"news_creation_success" : {
+			"en" : "news is created successfully",
+			"ar" : "تم انشاء خبر بنجاح"
+		},
+		"news_removed_success" : {
+			"en" : "News is removed successfully",
+			"ar" : "تم حذف الخبر بنجاح"
+		},
+		"project_creation_success" : {
+					"en" : "project is created successfully",
+					"ar" : "تم انشاء مشروع بنجاح"
+				},
+		"project_updated_success" : {
+			"en" : "project updated successfully",
+			"ar" : "تم تحديث المشروع بنجاح"
+		},
+		"project_removed_success" : {
+			"en" : "project removed successfully",
+			"ar" : "تم حذف المشروع بنجاح"
+		},
+		"email_sent_success" : {
+			"en" : "Email sent successfully, please check your inbox",
+			"ar" : "تم ارسال ايميل تفقد ميلك"
+		},
+		"resetـpassword_success" : {
+			"en" : "Password has been reset successfully",
+			"ar" : "تم تغيير كلمة السر بنجاح"
+		},
+		"cycle_creation_success":{
+			"en" : "Cycle createded successfully",
+			"ar" : "تم إنشاء دورة المشروع بنجاح"
+		},
+		"cycle_updated_success":{
+			"en" : "Cycle updated successfully",
+			"ar" : "تم تحديث دورة المشروع بنجاح"
+		},
+		"cycle_removed_success":{
+			"en" : "Cycle removed successfully",
+			"ar" : "تم حذف دورة المشروع بنجاح"
+		}
+	},
+	"errorMessages":{
+		"user_not_found" : {
+			"en" : "User not found",
+			"ar" : "اسم المستخدم غير موجود"
+		},
+		"wrong_password" : {
+			"en" : "Wrong password",
+			"ar" : "خطأ في كلمة السر"
+		},
+		"username_already_exist" : {
+			"en" : "Username is already exist",
+			"ar" : "اسم المستخدم موجود بالفعل"
+		},
+		"phone_already_exist" : {
+			"en" : "Phone is already exist",
+			"ar" : "رقم التليفون موجود بالفعل"
+		},
+		"email_already_exist" : {
+			"en" : "email is already exist",
+			"ar" : "هذا الايميل موجود بالفعل"
+		},
+
+		"field_is_mandatory" : {
+			"en" : "Field is required"
+		},
+		"match_confirm_password_error" : {
+			"en" : "Password and conform password does not match",
+			"ar" : "كلمة السر و اعادة كلمة السر غير متطابقتين"
+		},
+		"unauthorization_error" : {
+			"en" : "You are not authorized for this action",
+			"ar" : "ليس لديك الحق في هذا الحدث"
+		},
+		"already_created_cycle" : {
+			"en" : "There is already created cycle",
+			"ar" : "يوجد دورة موجودة بالفعل"
+		},
+		"over_project_member" : {
+			"en" : "Every project must have 5 members mximum",
+			"ar" : "عدد أعضاء المشروع لا يزيد عن خمس أعضاء"
+		},
+		"no_current_cycle" : {
+			"en" : "No current cycle",
+			"ar" : "لا يوجد استلام مشروعات الان"
+		},
+		"no_update_project" : {
+			"en" : "You can't update project, cycle is not in admission phase",
+			"ar" : "لا تستطيع تحديث المشروع الان ، الدورة ليست في مرحلة استلام المشروعات"
+		},
+		"no_active_cycle" : {
+			"en" : "Curreny cycle is not active",
+			"ar" : "الدورة الحالية غير مفعلة"
+		},
+		"no_admission_cycle" : {
+			"en" : "Current cycle is done with admission phase",
+			"ar" : "تم انتهاء فترة التقديم"
+		},
+		"member_has_project" : {
+			"en" : "some members involved in another project",
+			"ar" : "العضو مشارك في مشروع اخر"
+		},
+		"update_project_after_admission" : {
+			"en" : "You have no rights delete to update this, it's not yours or cycle is not admission",
+			"ar" : "ليس لديك الحق في تحديث المشروع"
+		}
+}
+}
